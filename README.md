@@ -42,3 +42,10 @@ Then l'utente dovrebbe vedere le seguenti attività:
   Then l'applicazione dovrebbe terminare
   And l'utente dovrebbe vedere il messaggio "Grazie per aver usato la To-Do List. Arrivederci!")
 
+  #Citeria
+  Rispetto dei vari scenari
+  Utilizzo di più progetti
+  Applicazione di tutte le tecniche apprese durante il corso
+  Aggiunta di eventuali personalizzazioni
+  Codice chiaro e leggibile
+
